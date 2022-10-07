@@ -8,7 +8,8 @@
 }
 body{
     color: #666;
-    background: url("./imagenes/fondo.jpg");
+    background-color: rgb(43, 43, 43);
+    background: url("/imagenes/fondo.jpg");
     background-position:center center;
     height: 100vh;
 }
